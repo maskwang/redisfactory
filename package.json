@@ -1,0 +1,26 @@
+{
+  "name": "redisfactory",
+  "version": "0.0.0",
+  "description": "NodeJs RedisFactory",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node example/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maskwang/redisfactory.git"
+  },
+  "keywords": [
+    "redis",
+    "factory"
+  ],
+  "author": "maskwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maskwang/redisfactory/issues"
+  },
+  "homepage": "https://github.com/maskwang/redisfactory"
+}
